@@ -4,3 +4,5 @@
 - **lectures**: Try forking here
 
 - **final projects**: final project space
+
+- **Team Members**: Rola Ke, Coco Zhang, Yuhan Wu
