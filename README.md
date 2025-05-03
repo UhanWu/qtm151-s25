@@ -5,4 +5,4 @@
 
 - **final projects**: final project space
 
-- **Team Members**: Rola Ke, Coco Zhang, Yuhan Wu
+- **Team Members**: Rola Ke, Coco Zhang, Yuhan Wu, Aaron Tse
